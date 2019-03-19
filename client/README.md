@@ -25,11 +25,9 @@ These node modules are requireed to run the program.
 
 Since I have included two package.json files, you do not need to install dependencies by name. Simply run "npm install" from the root directory, and then cd to the 'client' directory and npm install again. All the necessary modules should be installed automatically.
 
-```
-yarn install
-```
+.com/eiN3oU2.png)
 
 ## Future Updates
 
 1. [ ] Always more styling updates
-2. [ ] More interactive functionality. comments, ect.
+2. [ ] more interactive functionality. comments, ect.
