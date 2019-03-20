@@ -16,7 +16,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "semantic-ui": "^2.3.1"
+    
   },
    "engines": {
     "node": "11.12.0",
