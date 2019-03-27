@@ -2,6 +2,7 @@
   "name": "mern",
   "version": "1.15.2",
   "description": "nyt-react-search",
+  "homepage": "https://git.heroku.com/news-scrape-react.git",
   "main": "server.js",
   "scripts": {
     "server": "node server.js",
