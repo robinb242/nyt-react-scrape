@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.27cf2de5.chunk.css",
-  "main.js": "/static/js/main.8b669633.chunk.js",
-  "main.js.map": "/static/js/main.8b669633.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.8f11a50c.chunk.js": "/static/js/2.8f11a50c.chunk.js",
-  "static/js/2.8f11a50c.chunk.js.map": "/static/js/2.8f11a50c.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.0a761bf67e4b09928a8a89a2a3acbb9e.js": "/precache-manifest.0a761bf67e4b09928a8a89a2a3acbb9e.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.27cf2de5.chunk.css.map": "/static/css/main.27cf2de5.chunk.css.map"
+  "main.css": "/news-scrape-react.git/static/css/main.27cf2de5.chunk.css",
+  "main.js": "/news-scrape-react.git/static/js/main.92858066.chunk.js",
+  "main.js.map": "/news-scrape-react.git/static/js/main.92858066.chunk.js.map",
+  "runtime~main.js": "/news-scrape-react.git/static/js/runtime~main.cc50d6b3.js",
+  "runtime~main.js.map": "/news-scrape-react.git/static/js/runtime~main.cc50d6b3.js.map",
+  "static/js/2.8f11a50c.chunk.js": "/news-scrape-react.git/static/js/2.8f11a50c.chunk.js",
+  "static/js/2.8f11a50c.chunk.js.map": "/news-scrape-react.git/static/js/2.8f11a50c.chunk.js.map",
+  "index.html": "/news-scrape-react.git/index.html",
+  "precache-manifest.27433ebc78972ac69add62a618bf1758.js": "/news-scrape-react.git/precache-manifest.27433ebc78972ac69add62a618bf1758.js",
+  "service-worker.js": "/news-scrape-react.git/service-worker.js",
+  "static/css/main.27cf2de5.chunk.css.map": "/news-scrape-react.git/static/css/main.27cf2de5.chunk.css.map"
 }
